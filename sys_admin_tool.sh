@@ -66,4 +66,5 @@ else
     echo "Skipping cleanup."
 fi
 
+
 echo "Script execution completed. Have a great day!"
